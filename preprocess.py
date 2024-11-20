@@ -17,7 +17,6 @@ def preprocess(data):
     with open('testData.json', 'w') as f:
         json.dump(processed_test, f)
 
-
 def parse_data(data, length):
     processed_data = []
 
