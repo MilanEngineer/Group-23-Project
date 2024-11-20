@@ -10,6 +10,12 @@ def preprocess(data):
     processed_dev = parse_data(data, dev_length)
     processed_test = parse_data(data, test_length)
 
+    with open('trainingData.json', 'w') as f:
+        json.dump(processed_training, f)
+    with open('devData.json', 'w') as f:
+        json.dump(processed_dev, f)
+    with open('testData.json', 'w') as f:
+        json.dump(processed_test, f)
 
 def parse_data(data, length):
     processed_data = []
