@@ -1,0 +1,533 @@
+Example ID: 15
+Content: However, existing data suggest that patients taking bedaquiline in addition to standard TB therapy are five times more likely to die than those without the new drug,[184] which has resulted in medical journal articles raising health policy questions about why the FDA approved the drug and whether financial ties to the company making bedaquiline influenced physicians' support for its use.[183][185]
+Annotations:
+  - Annotation ID: 357ff480-c7fc-4fd9-aa21-c50c39124efd
+    Tag Name: Medicine
+    Value: TB therapy
+    Start: 88
+    End: 98
+  - Annotation ID: ae5f7798-7420-4e62-8b18-ddb29989e83a
+    Tag Name: Medicine
+    Value: bedaquiline
+    Start: 335
+    End: 346
+  - Annotation ID: fec31c24-a3eb-4cf2-a83b-6fe294f9867e
+    Tag Name: Medicine
+    Value: bedaquiline
+    Start: 52
+    End: 63
+
+Example ID: 16
+Content: Latent TB is treated with either isoniazid or rifampin alone, or a combination of isoniazid with either rifampicin or rifapentine.[90][91][92]  The treatment takes three to nine months depending on the medications used.[51][90][93][92] People with latent infections are treated to prevent them from progressing to active TB disease later in life.[94]
+Annotations:
+  - Annotation ID: 2f11646e-ebd5-4f9e-b03b-529950cdec6f
+    Tag Name: Medicine
+    Value: rifapentine
+    Start: 118
+    End: 129
+  - Annotation ID: 4a275246-3e5c-4616-b835-83d6f22311d7
+    Tag Name: Medicine
+    Value: isoniazid
+    Start: 33
+    End: 42
+  - Annotation ID: 5c38ef53-bc17-4239-a8d4-da823150bb74
+    Tag Name: Medicine
+    Value: rifampin
+    Start: 46
+    End: 54
+  - Annotation ID: c1526380-efd1-4824-b6f1-c7fb5990a6e8
+    Tag Name: Medicine
+    Value: isoniazid
+    Start: 82
+    End: 91
+  - Annotation ID: f5c96aed-ccb6-4d64-b20c-243aa5128f91
+    Tag Name: MedicalCondition
+    Value: isoniazid 
+    Start: 33
+    End: 43
+  - Annotation ID: fe7ebe88-aeab-4ece-b25c-a93dc8eb39b3
+    Tag Name: Medicine
+    Value: rifampicin
+    Start: 104
+    End: 114
+
+Example ID: 17
+Content: If a tuberculosis infection does become active, it most commonly involves the lungs (in about 90% of cases).[14][17] Symptoms may include chest pain and a prolonged cough producing sputum. About 25% of people may not have any symptoms (i.e. they remain "asymptomatic").[14] Occasionally, people may cough up blood in small amounts, and in very rare cases, the infection may erode into the pulmonary artery or a Rasmussen's aneurysm, resulting in massive bleeding.[9][18] Tuberculosis may become a chronic illness and cause extensive scarring in the upper lobes of the lungs. The upper lung lobes are more frequently affected by tuberculosis than the lower ones.[9] The reason for this difference is not clear.[13] It may be due to either better air flow,[13] or poor lymph drainage within the upper lungs.[
+Annotations:
+  - Annotation ID: 1d91b41d-56aa-4b15-ba73-a89b6217ef33
+    Tag Name: MedicalCondition
+    Value: extensive scarring
+    Start: 523
+    End: 541
+  - Annotation ID: 655084d0-3c8d-47ef-9a8f-0841c2fb9109
+    Tag Name: MedicalCondition
+    Value: chest pain
+    Start: 138
+    End: 148
+  - Annotation ID: 82cebfc2-c96d-4f5d-a366-3f291202b01d
+    Tag Name: MedicalCondition
+    Value: prolonged cough
+    Start: 155
+    End: 170
+  - Annotation ID: 894e6fe9-7399-4a05-b362-22265c83b65d
+    Tag Name: MedicalCondition
+    Value: cough up blood
+    Start: 299
+    End: 313
+  - Annotation ID: abc51385-b0d6-436b-bdf6-405967f5fb22
+    Tag Name: MedicalCondition
+    Value: massive bleeding
+    Start: 446
+    End: 462
+
+Example ID: 18
+Content: Tuberculosis may infect any part of the body, but most commonly occurs in the lungs (known as pulmonary tuberculosis).[9] Extrapulmonary TB occurs when tuberculosis develops outside of the lungs, although extrapulmonary TB may coexist with pulmonary TB.[9]  General signs and symptoms include fever, chills, night sweats, loss of appetite, weight loss, and fatigue.[9] Significant nail clubbing may also occur.[16]
+
+Example ID: 19
+Content: A number of factors make people more susceptible to TB infections. The most important risk factor globally is HIV; 13% of all people with TB are infected by the virus.[39] This is a particular problem in sub-Saharan Africa, where rates of HIV are high.[40][41] Of people without HIV who are infected with tuberculosis, about 5–10% develop active disease during their lifetimes;[16] in contrast, 30% of those coinfected with HIV develop the active disease.[16]
+Annotations:
+  - Annotation ID: 9b62bea0-e8a1-444e-8e46-0d7ebb6f1695
+    Tag Name: Pathogen
+    Value: HIV 
+    Start: 279
+    End: 283
+  - Annotation ID: c82f1243-5b08-400c-b1ed-546f72f13439
+    Tag Name: Pathogen
+    Value: HIV
+    Start: 279
+    End: 282
+
+Example ID: 20
+Content: In 15–20% of active cases, the infection spreads outside the lungs, causing other kinds of TB.[19] These are collectively denoted as "extrapulmonary tuberculosis".[20] Extrapulmonary TB occurs more commonly in people with a weakened immune system and young children. In those with HIV, this occurs in more than 50% of cases.[20] Notable extrapulmonary infection sites include the pleura (in tuberculous pleurisy), the central nervous system (in tuberculous meningitis), the lymphatic system (in scrofula of the neck), the genitourinary system (in urogenital tuberculosis), and the bones and joints (in Pott disease of the spine), among others. A potentially more serious, widespread form of TB is called "disseminated tuberculosis", it is also known as miliary tuberculosis.[9] Miliary TB currently makes up about 10% of extrapulmonary cases.[21]
+Annotations:
+  - Annotation ID: 0a4e8ac8-f7d6-4121-9793-33cd994bcb3f
+    Tag Name: MedicalCondition
+    Value: extrapulmonary tuberculosis
+    Start: 134
+    End: 161
+  - Annotation ID: 22c92ce1-a90d-4f6b-88e5-54ae7121513e
+    Tag Name: MedicalCondition
+    Value: miliary tuberculosis
+    Start: 753
+    End: 773
+  - Annotation ID: b0035ee2-8ece-4bdc-b25d-77595856064b
+    Tag Name: MedicalCondition
+    Value: extrapulmonary infection
+    Start: 337
+    End: 361
+  - Annotation ID: fbe26652-3d7f-49df-923c-79945a038c4c
+    Tag Name: MedicalCondition
+    Value: tuberculous meningitis
+    Start: 445
+    End: 467
+
+Example ID: 21
+Content: Although viruses cause disruption of healthy homeostasis, resulting in disease, they may exist relatively harmlessly within an organism. An example would include the ability of the herpes simplex virus, which causes cold sores, to remain in a dormant state within the human body. This is called latency[153] and is a characteristic of the herpes viruses, including Epstein–Barr virus, which causes glandular fever, and varicella zoster virus, which causes chickenpox and shingles. Most people have been infected with at least one of these types of herpes virus.[154] These latent viruses might sometimes be beneficial, as the presence of the virus can increase immunity against bacterial pathogens, such as Yersinia pestis.[155]
+Annotations:
+  - Annotation ID: 0efbe631-53e1-408c-9192-3a78fc580590
+    Tag Name: MedicalCondition
+    Value: chickenpox
+    Start: 456
+    End: 466
+  - Annotation ID: 4f02cc3c-b8d1-451d-a069-25325695c0fb
+    Tag Name: MedicalCondition
+    Value: shingles
+    Start: 471
+    End: 479
+  - Annotation ID: 5ddde2cc-5f89-4065-a741-d8f57e128ce5
+    Tag Name: Pathogen
+    Value: varicella zoster virus
+    Start: 419
+    End: 441
+  - Annotation ID: 65c0196d-a2e3-46fa-a6e2-e9941885fe51
+    Tag Name: Pathogen
+    Value: Epstein–Barr virus
+    Start: 365
+    End: 383
+  - Annotation ID: 7d405740-fbc1-4c02-867d-f8f83ec229e9
+    Tag Name: Pathogen
+    Value: Yersinia pestis
+    Start: 707
+    End: 722
+  - Annotation ID: a65cd052-3b96-4dc9-bb16-4bcd49fafba2
+    Tag Name: Pathogen
+    Value: herpes simplex virus
+    Start: 181
+    End: 201
+  - Annotation ID: d1af980f-9d02-492e-8df2-c2077af94946
+    Tag Name: MedicalCondition
+    Value: chickenpox 
+    Start: 456
+    End: 467
+
+Example ID: 22
+Content: Examples of common human diseases caused by viruses include the common cold, influenza, chickenpox, and cold sores. Many serious diseases such as rabies, Ebola virus disease, AIDS (HIV), avian influenza, and SARS are caused by viruses. The relative ability of viruses to cause disease is described in terms of virulence. Other diseases are under investigation to discover if they have a virus as the causative agent, such as the possible connection between human herpesvirus 6 (HHV6) and neurological diseases such as multiple sclerosis and chronic fatigue syndrome.[151] There is controversy over whether the bornavirus, previously thought to cause neurological diseases in horses, could be responsible for psychiatric illnesses in humans.[152]
+Annotations:
+  - Annotation ID: 518463c5-630d-4577-9a5a-d02c3dce5110
+    Tag Name: MedicalCondition
+    Value: multiple sclerosis
+    Start: 518
+    End: 536
+  - Annotation ID: 5d2df1ba-5575-492a-8046-1f6d7de351aa
+    Tag Name: Pathogen
+    Value: Ebola virus
+    Start: 154
+    End: 165
+  - Annotation ID: 8878882f-522c-44cd-918f-d0b48670fec2
+    Tag Name: MedicalCondition
+    Value: psychiatric illnesses
+    Start: 708
+    End: 729
+  - Annotation ID: adbacef9-e305-42c8-ab92-49c543061373
+    Tag Name: Pathogen
+    Value: herpesvirus 6
+    Start: 463
+    End: 476
+  - Annotation ID: d52a8c46-8811-4984-97f7-81cc5821c6e7
+    Tag Name: MedicalCondition
+    Value: influenza
+    Start: 77
+    End: 86
+  - Annotation ID: d869123f-8713-412e-a783-fb549a50ea8e
+    Tag Name: MedicalCondition
+    Value: chickenpox
+    Start: 88
+    End: 98
+  - Annotation ID: da0337bc-cf1e-46ad-98d0-6d5226ec0dcb
+    Tag Name: MedicalCondition
+    Value: avian influenza
+    Start: 187
+    End: 202
+  - Annotation ID: db1ed5ca-b539-46a9-812e-cc37b9288d7c
+    Tag Name: Pathogen
+    Value: bornavirus
+    Start: 610
+    End: 620
+
+Example ID: 23
+Content: All medical applications known so far involve not pure adamantane, but its derivatives. The first adamantane derivative used as a drug was amantadine – first (1967) as an antiviral drug against various strains of flu[50] and then to treat Parkinson's disease.[51][52] Other drugs among adamantane derivatives include adapalene, adapromine, bromantane, carmantadine, chlodantane, dopamantine, memantine, rimantadine, saxagliptin, tromantadine, and vildagliptin. Polymers of adamantane have been patented as antiviral agents against HIV.[53]
+Annotations:
+  - Annotation ID: 23fd60f4-49de-475b-b4f6-9c92701b4a53
+    Tag Name: MedicalCondition
+    Value: Parkinson's disease
+    Start: 239
+    End: 258
+  - Annotation ID: 46bde0d5-ca38-4c10-a1ca-ab86277b1ed6
+    Tag Name: Medicine
+    Value: adamantane
+    Start: 55
+    End: 65
+  - Annotation ID: 6c0e8253-9052-4476-926f-62063f49b9cd
+    Tag Name: Pathogen
+    Value: HIV
+    Start: 531
+    End: 534
+  - Annotation ID: 969ab9e6-0a01-402e-95e4-c2b091fa1995
+    Tag Name: Medicine
+    Value: saxagliptin
+    Start: 416
+    End: 427
+  - Annotation ID: b1d183de-f20b-492f-8d24-ce3fee3dec34
+    Tag Name: Medicine
+    Value: dopamantine
+    Start: 379
+    End: 390
+  - Annotation ID: b7b54ff3-e72b-47ac-8ab6-b77abc51fdec
+    Tag Name: Medicine
+    Value: carmantadine
+    Start: 352
+    End: 364
+  - Annotation ID: c98642c5-404d-42be-b2f5-23e7c2b63c12
+    Tag Name: Medicine
+    Value: amantadine
+    Start: 139
+    End: 149
+
+Example ID: 24
+Content: Buprenorphine has been shown experimentally (1982–1995) to be effective against severe, refractory depression
+Annotations:
+  - Annotation ID: 0520dae8-5965-4202-966d-a66065b755fd
+    Tag Name: Medicine
+    Value: Buprenorphine
+    Start: 0
+    End: 13
+  - Annotation ID: 0e5b0df4-7690-4f59-a539-17f5423f5b6c
+    Tag Name: MedicalCondition
+    Value: refractory depression
+    Start: 88
+    End: 109
+  - Annotation ID: af859071-04ad-460f-984d-e2d1bde70faa
+    Tag Name: MedicalCondition
+    Value: Buprenorphine 
+    Start: 0
+    End: 14
+
+Example ID: 25
+Content: Gabapentin, approved for treatment of seizures and postherpetic neuralgia in adults, has side-effects which are useful in treating bipolar disorder1, essential tremor, hot flashes, migraine prophylaxis, neuropathic pain syndromes, phantom limb syndrome, and restless leg syndrome.[11]
+Annotations:
+  - Annotation ID: 06a63a53-1138-4859-a69a-2e61fc077a7d
+    Tag Name: MedicalCondition
+    Value: neuropathic pain syndromes
+    Start: 203
+    End: 229
+  - Annotation ID: 0aa4e2de-95e6-41f6-b113-e4db527a756a
+    Tag Name: MedicalCondition
+    Value: restless leg syndrome
+    Start: 258
+    End: 279
+  - Annotation ID: 3feaa4ac-2c43-4a57-8cfa-1105d31a5303
+    Tag Name: MedicalCondition
+    Value: migraine prophylaxis
+    Start: 181
+    End: 201
+  - Annotation ID: c28bbc16-e300-438f-b270-84ea13c8e395
+    Tag Name: MedicalCondition
+    Value: postherpetic neuralgia
+    Start: 51
+    End: 73
+  - Annotation ID: c9021468-682d-4f54-9395-e6380d840bb9
+    Tag Name: Medicine
+    Value: Gabapentin
+    Start: 0
+    End: 10
+  - Annotation ID: ef0089ff-8a1f-41fa-b3bd-8ab9cf1876d4
+    Tag Name: MedicalCondition
+    Value: seizures
+    Start: 38
+    End: 46
+
+Example ID: 26
+Content: Bupropion (Wellbutrin), an anti-depressant, is also used as a smoking cessation aid; this indication was later approved, and the name of the smoking cessation product is Zyban. In Ontario, Canada, smoking cessation drugs are not covered by provincial drug plans; elsewhere, Zyban is priced higher than Wellbutrin, despite being the same drug. Therefore, some physicians prescribe Wellbutrin for both indications.[
+Annotations:
+  - Annotation ID: 06743149-ee59-4f86-bead-45da9437b9e8
+    Tag Name: Medicine
+    Value: Zyban
+    Start: 274
+    End: 279
+  - Annotation ID: 0ccc9a49-c9df-4a4b-b35e-7f9ee717cbcc
+    Tag Name: Medicine
+    Value: Wellbutrin
+    Start: 11
+    End: 21
+  - Annotation ID: 1ef9c180-749c-4842-baaf-255797feb81f
+    Tag Name: Medicine
+    Value: Wellbutrin
+    Start: 302
+    End: 312
+  - Annotation ID: 284f3cb8-4350-4f41-8b38-6ffa1a57116b
+    Tag Name: MedicalCondition
+    Value:  Wellbutrin
+    Start: 301
+    End: 312
+  - Annotation ID: 33513507-af28-4f55-b519-e3036cc9a2fd
+    Tag Name: Medicine
+    Value: Wellbutrin
+    Start: 380
+    End: 390
+  - Annotation ID: 7f5914a5-6d6a-4d3d-a02e-3311262f1614
+    Tag Name: Medicine
+    Value: Zyban
+    Start: 170
+    End: 175
+  - Annotation ID: 9c7b4228-7c74-4a40-a236-a6d40266fd72
+    Tag Name: Medicine
+    Value: Bupropion
+    Start: 0
+    End: 9
+
+Example ID: 27
+Content: Carbamazepine is an approved treatment for bipolar disorder and epileptic seizures, but it has side effects useful in treating attention-deficit hyperactivity disorder (ADHD), schizophrenia, phantom limb syndrome, paroxysmal extreme pain disorder, neuromyotonia, and post-traumatic stress disorder.[8]
+Annotations:
+  - Annotation ID: 017df303-930a-42bb-a212-6f6d6ff4355d
+    Tag Name: MedicalCondition
+    Value: post-traumatic stress
+    Start: 267
+    End: 288
+  - Annotation ID: 1301e968-90c7-40cf-9cf8-bff42d337c16
+    Tag Name: MedicalCondition
+    Value: neuromyotonia
+    Start: 248
+    End: 261
+  - Annotation ID: 31773440-2b9c-4d79-ae64-ab408f079456
+    Tag Name: Medicine
+    Value: Carbamazepine
+    Start: 0
+    End: 13
+  - Annotation ID: 5451df8f-23b1-4212-b87d-0a00ddd275a6
+    Tag Name: MedicalCondition
+    Value: bipolar disorder
+    Start: 43
+    End: 59
+  - Annotation ID: 922bf378-9f90-4276-b997-4aa5f52ba4c9
+    Tag Name: MedicalCondition
+    Value: hyperactivity disorder
+    Start: 145
+    End: 167
+  - Annotation ID: 9579538c-910b-4856-ab7b-ee05f58d047e
+    Tag Name: MedicalCondition
+    Value: Carbamazepine 
+    Start: 0
+    End: 14
+  - Annotation ID: b0189b23-c2ee-41f4-b890-69fa25fb118f
+    Tag Name: MedicalCondition
+    Value: schizophrenia
+    Start: 176
+    End: 189
+  - Annotation ID: b2a53fc3-32ca-47ea-aeb6-6c9b484b47de
+    Tag Name: MedicalCondition
+    Value: epileptic seizures
+    Start: 64
+    End: 82
+  - Annotation ID: e1b244f2-21ea-4607-8ae9-83bbfdf88886
+    Tag Name: MedicalCondition
+    Value: phantom limb syndrome
+    Start: 191
+    End: 212
+
+Example ID: 28
+Content: The antiviral drugs amantadine and rimantadine inhibit a viral ion channel (M2 protein), thus inhibiting replication of the influenza A virus.[86] These drugs are sometimes effective against influenza A if given early in the infection but are ineffective against influenza B viruses, which lack the M2 drug target.[160] Measured resistance to amantadine and rimantadine in American isolates of H3N2 has increased to 91% in 2005.[161] This high level of resistance may be due to the easy availability of amantadines as part of over-the-counter cold remedies in countries such as China and Russia,[162] and their use to prevent outbreaks of influenza in farmed poultry.[163][164] The CDC recommended against using M2 inhibitors during the 2005–06 influenza season due to high levels of drug resistance.[165]
+Annotations:
+  - Annotation ID: 352ad6e3-7f30-4246-a4af-0645732e4d09
+    Tag Name: MedicalCondition
+    Value: influenza
+    Start: 639
+    End: 648
+  - Annotation ID: 756af11a-96ee-4d36-899a-6b42a470b3da
+    Tag Name: Medicine
+    Value: rimantadine
+    Start: 35
+    End: 46
+  - Annotation ID: a0e3ccca-7509-43da-a5a8-7e8a7392755a
+    Tag Name: Medicine
+    Value: M2 inhibitors
+    Start: 712
+    End: 725
+  - Annotation ID: ecb3ec02-a490-40af-96ba-28aef67e8531
+    Tag Name: Medicine
+    Value: amantadine
+    Start: 20
+    End: 30
+
+Example ID: 29
+Content: The two classes of antiviral drugs used against influenza are neuraminidase inhibitors (oseltamivir, zanamivir, laninamivir and peramivir) and M2 protein inhibitors (adamantane derivatives)
+Annotations:
+  - Annotation ID: 0df28cca-4bc4-4030-86c7-cd977743fe2b
+    Tag Name: Medicine
+    Value: peramivir
+    Start: 128
+    End: 137
+  - Annotation ID: 1773f297-c6cd-41c9-bfbb-eecfb60c6af0
+    Tag Name: MedicalCondition
+    Value: influenza 
+    Start: 48
+    End: 58
+  - Annotation ID: 56948d83-388f-4297-946f-f29392bb42ac
+    Tag Name: Medicine
+    Value: zanamivir
+    Start: 101
+    End: 110
+  - Annotation ID: 71f4102b-653f-45ee-829d-b62a59fc2f86
+    Tag Name: Medicine
+    Value: laninamivir
+    Start: 112
+    End: 123
+  - Annotation ID: b2817ab9-48d7-4dd2-983a-446f362c8a29
+    Tag Name: MedicalCondition
+    Value: laninamivir 
+    Start: 112
+    End: 124
+  - Annotation ID: c066070f-e178-4fe2-b120-d6428f98d586
+    Tag Name: MedicalCondition
+    Value: influenza
+    Start: 48
+    End: 57
+  - Annotation ID: e57563ec-612b-4e8d-91a8-fe250268c908
+    Tag Name: Medicine
+    Value: oseltamivir
+    Start: 88
+    End: 99
+
+Example ID: 30
+Content: Influenza, commonly known as "the flu", is an infectious disease caused by an influenza virus.[1] Symptoms can be mild to severe.[5] The most common symptoms include: high fever, runny nose, sore throat, muscle and joint pain, headache, coughing, and feeling tired.[1] These symptoms typically begin two days after exposure to the virus and most last less than a week.[1] The cough, however, may last for more than two weeks.[1] In children, there may be diarrhea and vomiting, but these are not common in adults.[6] Diarrhea and vomiting occur more commonly in gastroenteritis, which is an unrelated disease and sometimes inaccurately referred to as "stomach flu" or the "24-hour flu".[6] Complications of influenza may include viral pneumonia, secondary bacterial pneumonia, sinus infections, and worsening of previous health problems such as asthma or heart failure.[2][5]
+Annotations:
+  - Annotation ID: 05c61d36-74f6-498b-b0b4-86124f1ec11e
+    Tag Name: MedicalCondition
+    Value: sore throat
+    Start: 191
+    End: 202
+  - Annotation ID: 0d951ef9-707a-43c7-a8a3-2f343592d73b
+    Tag Name: MedicalCondition
+    Value: Influenza
+    Start: 0
+    End: 9
+  - Annotation ID: 0df2b6b6-b8f3-4799-86d2-22ff7604c0d4
+    Tag Name: MedicalCondition
+    Value: asthma 
+    Start: 845
+    End: 852
+  - Annotation ID: 11b0c85d-931b-4ea5-ae5a-a088ea1a602f
+    Tag Name: Pathogen
+    Value: bacterial pneumonia
+    Start: 756
+    End: 775
+  - Annotation ID: 1866b62f-6fe1-4906-8e4e-687a9f3a8076
+    Tag Name: MedicalCondition
+    Value: vomiting
+    Start: 468
+    End: 476
+  - Annotation ID: 5ad4abbd-03e7-43e1-ac94-8e58c733e4ca
+    Tag Name: MedicalCondition
+    Value: headache
+    Start: 227
+    End: 235
+  - Annotation ID: 8beededf-1a5e-441b-86b3-9b691eb938ae
+    Tag Name: MedicalCondition
+    Value: asthma
+    Start: 845
+    End: 851
+  - Annotation ID: 93f7d8da-5c64-4c5e-b824-f8f14894d68a
+    Tag Name: MedicalCondition
+    Value: coughing
+    Start: 237
+    End: 245
+  - Annotation ID: ab4a596e-d703-46bd-8dcb-ef1118da8482
+    Tag Name: MedicalCondition
+    Value: sinus infections
+    Start: 777
+    End: 793
+  - Annotation ID: b8886dba-e948-4a3c-999d-c68756026a5e
+    Tag Name: MedicalCondition
+    Value: heart failure
+    Start: 855
+    End: 868
+  - Annotation ID: c8109996-5ee1-4846-880d-159594a71c30
+    Tag Name: MedicalCondition
+    Value: joint pain
+    Start: 215
+    End: 225
+  - Annotation ID: ce4cf299-e629-4319-8706-7e28d4e0f368
+    Tag Name: MedicalCondition
+    Value: stomach flu
+    Start: 652
+    End: 663
+  - Annotation ID: d3c704d8-aa5a-4e90-ac8c-baa629a286a8
+    Tag Name: MedicalCondition
+    Value: diarrhea 
+    Start: 455
+    End: 464
+  - Annotation ID: d606b7be-7881-4752-bd21-45c6470fd520
+    Tag Name: MedicalCondition
+    Value: feeling tired
+    Start: 251
+    End: 264
+  - Annotation ID: deaea77c-ef9d-4d13-86f4-a74e01eaf272
+    Tag Name: MedicalCondition
+    Value: diarrhea
+    Start: 455
+    End: 463
+  - Annotation ID: f2584220-deef-45ae-8827-1b38f294176a
+    Tag Name: Pathogen
+    Value: influenza virus
+    Start: 78
+    End: 93
+

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<POSTask>
+<TEXT><![CDATA[Amoxicillin is an antibiotic medication belonging to the aminopenicillin class of the penicillin family. The drug is used to treat bacterial infections[9] such as middle ear infection, strep throat, pneumonia, skin infections, odontogenic infections, and urinary tract infections.[9] It is taken orally (swallowed by mouth), or less commonly by either Intramuscular injection or by an IV bolus injection, which is a relatively quick intravenous injection lasting from a couple of seconds to a few minutes.[9][10] Common adverse effects include nausea and rash.[9] It may also increase the risk of yeast infections and, when used in combination with clavulanic acid, diarrhea.[11] It should not be used in those who are allergic to penicillin.[9] While usable in those with kidney problems, the dose may need to be decreased.[9] Its use in pregnancy and breastfeeding does not appear to be harmful.[9] Amoxicillin is in the β-lactam family of antibiotics.[9] Amoxicillin was discovered in 1958 and came into medical use in 1972.[12][13] Amoxil was approved for medical use in the United States in 1974,[4][5] and in the United Kingdom in 1977.[2] It is on the World Health Organization's List of Essential Medicines.[14] It is one of the most commonly prescribed antibiotics in children.[15] Amoxicillin is available as a generic medication.[9] In 2022, it was the 26th most commonly prescribed medication in the United States, with more than 20 million prescriptions.[16][17]]]></TEXT>
+<TAGS>
+<MEDTYPE id="M0" spans="0~11" text="Amoxicillin" type="Medication" />
+<MEDTYPE id="M1" spans="57~72" text="aminopenicillin" type="Medication" />
+<MEDTYPE id="M2" spans="86~96" text="penicillin" type="Medication" />
+<MEDTYPE id="M3" spans="131~151" text="bacterial infections" type="MedicalCondition" />
+<MEDTYPE id="M5" spans="163~183" text="middle ear infection" type="MedicalCondition" />
+<MEDTYPE id="M6" spans="185~197" text="strep throat" type="MedicalCondition" />
+<MEDTYPE id="M7" spans="199~208" text="pneumonia" type="MedicalCondition" />
+<MEDTYPE id="M8" spans="210~225" text="skin infections" type="MedicalCondition" />
+<MEDTYPE id="M9" spans="227~249" text="odontogenic infections" type="MedicalCondition" />
+<MEDTYPE id="M10" spans="255~279" text="urinary tract infections" type="MedicalCondition" />
+<MEDTYPE id="M11" spans="544~550" text="nausea" type="MedicalCondition" />
+<MEDTYPE id="M12" spans="555~559" text="rash" type="MedicalCondition" />
+<MEDTYPE id="M13" spans="597~613" text="yeast infections" type="MedicalCondition" />
+<MEDTYPE id="M14" spans="649~664" text="clavulanic acid" type="Medication" />
+<MEDTYPE id="M15" spans="666~674" text="diarrhea" type="MedicalCondition" />
+<MEDTYPE id="M16" spans="731~741" text="penicillin" type="Medication" />
+<MEDTYPE id="M17" spans="773~788" text="kidney problems" type="MedicalCondition" />
+<MEDTYPE id="M18" spans="719~727" text="allergic" type="MedicalCondition" />
+<MEDTYPE id="M19" spans="839~848" text="pregnancy" type="MedicalCondition" />
+<MEDTYPE id="M20" spans="901~912" text="Amoxicillin" type="Medication" />
+<MEDTYPE id="M21" spans="958~969" text="Amoxicillin" type="Medication" />
+<MEDTYPE id="M22" spans="1291~1302" text="Amoxicillin" type="Medication" />
+</TAGS>
+</POSTask>
