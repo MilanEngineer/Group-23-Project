@@ -1,0 +1,245 @@
+bismuth compounds	Medicine	6	23
+Pepto-Bismol	Medicine	25	37
+diarrhea	MedicalCondition	104	112
+loperamide	Medicine	188	198
+Diosmectite	Medicine	360	371
+aluminomagnesium silicate	Medicine	383	408
+diarrhea	MedicalCondition	461	469
+diarrhea	MedicalCondition	535	543
+diarrhea	MedicalCondition	563	571
+chemotherapy	Medicine	577	589
+kaopectate	Medicine	679	689
+Racecadotril	Medicine	692	704
+diarrhea	MedicalCondition	754	762
+loperamide	Medicine	823	833
+constipation	MedicalCondition	853	865
+flatulence.[94]Diarrhea	Pathogen	870	893
+diarrhoea	MedicalCondition	908	917
+watery bowel movements	MedicalCondition	979	1001
+dehydration	MedicalCondition	1063	1074
+dehydration	MedicalCondition	1106	1117
+loss of skin color	MedicalCondition	1249	1267
+fast heart rate	MedicalCondition	1271	1286
+decrease in responsiveness	MedicalCondition	1294	1320
+normal.[2]Antiretroviral therapy	Medicine	1433	1465
+ART	Medicine	1467	1470
+HIV	Pathogen	1495	1498
+ART	Medicine	1563	1566
+HIV	Pathogen	1591	1594
+HIV	Pathogen	1654	1657
+ART	Medicine	1677	1680
+DMARDs	Medicine	2012	2018
+methotrexate	Medicine	2020	2032
+hydroxychloroquine	Medicine	2034	2052
+sulfasalazine, leflunomide	Medicine	2054	2080
+TNF-alpha inhibitors	Medicine	2082	2102
+certolizumab	Medicine	2104	2116
+infliximab	Medicine	2118	2128
+etanercept	Medicine	2133	2143
+Rituximab	Medicine	2171	2180
+tocilizumab	Medicine	2185	2196
+monoclonal antibodies	Medicine	2201	2222
+tocilizumab	Medicine	2254	2265
+Hydroxychloroquine	Medicine	2330	2348
+methotrexate	Medicine	2478	2490
+sulfasalazine	Medicine	2535	2548
+Leflunomide	Medicine	2569	2580
+methotrexate	Medicine	2652	2664
+Sulfasalazine	Medicine	2692	2705
+Sodium aurothiomalate	Medicine	2797	2818
+cyclosporin	Medicine	2830	2841
+cyclosporin	Medicine	2913	2924
+Methotrexate	Medicine	3098	3110
+methotrexate	Medicine	3332	3344
+sulfasalazine	Medicine	3346	3359
+hydroxychloroquine	Medicine	3364	3382
+nausea	MedicalCondition	3584	3590
+vomiting	Medicine	3592	3600
+abdominal pain	MedicalCondition	3604	3618
+steroids	Medicine	3914	3922
+hydroxychloroquine	Medicine	4037	4055
+methotrexate	Medicine	4060	4072
+Biological DMARDs	Medicine	4132	4149
+Mouyassué virus	Pathogen	4525	4540
+Magboi virus	Pathogen	4657	4669
+Bunyaviridae	Pathogen	4824	4836
+rabies	MedicalCondition	4895	4901
+rabies	MedicalCondition	5022	5028
+rabies virus	Pathogen	5244	5256
+rabies	MedicalCondition	5837	5843
+Bites	MedicalCondition	5887	5892
+Rabies virus	Pathogen	6129	6141
+dies	MedicalCondition	6203	6207
+severe acute respiratory syndrome	MedicalCondition	6302	6335
+SARS	MedicalCondition	6337	6341
+coronavirus	Pathogen	6507	6518
+SARS	MedicalCondition	6586	6590
+SARS coronavirus	Pathogen	6627	6643
+SARS-CoV	Pathogen	6645	6653
+died.[25]Bacterial vaginosis	Pathogen	6720	6748
+bacteria	Pathogen	6762	6770
+Lactobacilli	Pathogen	6861	6873
+vaginal infections	MedicalCondition	6955	6973
+yeast infection	MedicalCondition	6983	6998
+candidiasis	MedicalCondition	7000	7011
+Trichomonas vaginalis	Pathogen	7014	7035
+Bacterial meningitis	Pathogen	7060	7080
+bacterial inflammation	Pathogen	7086	7108
+Bacterial pneumonia	Pathogen	7196	7215
+pain during urination	MedicalCondition	7387	7408
+Escherichia coli	Pathogen	7465	7481
+cystitis	MedicalCondition	7626	7634
+nephritis	MedicalCondition	7639	7648
+Bacterial gastroenteritis	Pathogen	7650	7675
+Escherichia	Pathogen	7944	7955
+skin infection	MedicalCondition	8034	8048
+Staphylococcus aureus	Pathogen	8096	8117
+Erysipelas	Pathogen	8151	8161
+Cellulitis	MedicalCondition	8278	8288
+inflammation	MedicalCondition	8352	8364
+Cellulitis	MedicalCondition	8412	8422
+blisters	MedicalCondition	8528	8536
+cracks in the skin	MedicalCondition	8538	8556
+animal bites	MedicalCondition	8572	8584
+surgical wounds	MedicalCondition	8593	8608
+intravenous drug injection	Medicine	8610	8636
+intravenous catheter insertion	Medicine	8650	8680
+Salmonella	Pathogen	8858	8868
+Neisseria	Pathogen	8870	8879
+Brucella	Pathogen	8881	8889
+Mycobacterium	Pathogen	8891	8904
+Nocardia	Pathogen	8906	8914
+Listeria	Pathogen	8916	8924
+Francisella	Pathogen	8926	8937
+Legionella	Pathogen	8939	8949
+Yersinia pestis	Pathogen	8955	8970
+tuberculosis	MedicalCondition	9106	9118
+Mycobacterium tuberculosis	Pathogen	9130	9156
+pneumonia	MedicalCondition	9317	9326
+Streptococcus	Pathogen	9368	9381
+Pseudomonas	Pathogen	9386	9397
+foodborne illnesses	MedicalCondition	9403	9422
+Shigella	Pathogen	9464	9472
+Campylobacter	Pathogen	9474	9487
+Salmonella	Pathogen	9493	9503
+tetanus	MedicalCondition	9555	9562
+typhoid fever	MedicalCondition	9564	9577
+diphtheria	MedicalCondition	9579	9589
+syphilis	MedicalCondition	9591	9599
+leprosy	MedicalCondition	9605	9612
+bacteria	Pathogen	9741	9749
+pathogenic bacteria	Pathogen	9798	9817
+pneumonia	MedicalCondition	10096	10105
+Streptococcus	Pathogen	10147	10160
+Pseudomonas	Pathogen	10165	10176
+foodborne illnesses	MedicalCondition	10182	10201
+Shigella	Pathogen	10243	10251
+Campylobacter	Pathogen	10253	10266
+Salmonella	Pathogen	10272	10282
+tetanus	MedicalCondition	10334	10341
+typhoid fever	MedicalCondition	10343	10356
+diphtheria	MedicalCondition	10358	10368
+syphilis	MedicalCondition	10370	10378
+Hansen's disease	MedicalCondition	10384	10400
+anthrax vaccine	Medicine	10613	10628
+pneumococcal vaccine	Medicine	10637	10657
+amoxicillin	Medicine	10840	10851
+ciprofloxacin	Medicine	10853	10866
+doxycycline	Medicine	10872	10883
+infectious microorganism	Pathogen	11267	11291
+virus	Pathogen	11312	11317
+bacterium	Pathogen	11319	11328
+protozoan	Pathogen	11330	11339
+social anxiety disorder	MedicalCondition	11416	11439
+Sertraline	Medicine	11736	11746
+fluvoxamine	Medicine	11751	11762
+escitalopram	Medicine	11822	11834
+social phobia	MedicalCondition	11951	11964
+fluoxetine	Medicine	11970	11980
+venlafaxine	Medicine	12148	12159
+social anxiety	MedicalCondition	12465	12479
+MAOIs	Medicine	12540	12545
+Phenelzine	Medicine	12658	12668
+Moclobemide	Medicine	12758	12769
+clomipramine	Medicine	12913	12925
+imipramine	Medicine	12930	12940
+anxiety disorder	MedicalCondition	12980	12996
+paroxetine	MedicalCondition	13042	13052
+sertraline	Medicine	13054	13064
+fluvoxamine	Medicine	13069	13080
+bedaquiline	Medicine	13208	13219
+TB therapy	Medicine	13244	13254
+bedaquiline	Medicine	13491	13502
+isoniazid	Medicine	13589	13598
+rifampin	Medicine	13602	13610
+isoniazid	Medicine	13638	13647
+rifampicin	Medicine	13660	13670
+tuberculosis infection	MedicalCondition	13911	13933
+chest pain	MedicalCondition	14044	14054
+prolonged cough	MedicalCondition	14061	14076
+cough up blood	MedicalCondition	14205	14219
+extensive scarring	MedicalCondition	14429	14447
+HIV	Pathogen	15405	15408
+extrapulmonary infection	MedicalCondition	15922	15946
+tuberculous meningitis	MedicalCondition	16030	16052
+organism	Pathogen	16558	16566
+sores	MedicalCondition	16652	16657
+Barr virus	Pathogen	16804	16814
+varicella zoster virus	MedicalCondition	16850	16872
+chickenpox	MedicalCondition	16887	16897
+Yersinia	Pathogen	17138	17146
+influenza	MedicalCondition	17236	17245
+chickenpox	MedicalCondition	17247	17257
+rabies	MedicalCondition	17305	17311
+Ebola virus	Pathogen	17313	17324
+AIDS	Pathogen	17334	17338
+HIV	Pathogen	17340	17343
+SARS	MedicalCondition	17367	17371
+virus	Pathogen	17546	17551
+herpesvirus 6	Pathogen	17622	17635
+HHV6	Medicine	17637	17641
+amantadine	Medicine	18043	18053
+antiviral drug	Medicine	18075	18089
+adapromine	Medicine	18232	18242
+carmantadine	Medicine	18256	18268
+chlodantane	Pathogen	18270	18281
+dopamantine	MedicalCondition	18283	18294
+memantine	Medicine	18296	18305
+rimantadine	Medicine	18307	18318
+tromantadine	Medicine	18333	18345
+vildagliptin	Medicine	18351	18363
+antiviral	Medicine	18410	18419
+HIV.[53]Buprenorphine	Medicine	18435	18456
+neuropathic pain syndromes	MedicalCondition	18755	18781
+Wellbutrin	Medicine	18847	18857
+Zyban	Medicine	19006	19011
+Zyban	Medicine	19110	19115
+indications.[Carbamazepine	Medicine	19236	19262
+epileptic seizures	MedicalCondition	19313	19331
+hyperactivity disorder	MedicalCondition	19394	19416
+schizophrenia	MedicalCondition	19425	19438
+syndrome	MedicalCondition	19453	19461
+paroxysmal extreme pain disorder	MedicalCondition	19463	19495
+neuromyotonia	MedicalCondition	19497	19510
+post	Medicine	19516	19520
+-traumatic stress disorder.[8]The antiviral drugs amantadine	MedicalCondition	19520	19580
+rimantadine inhibit	Medicine	19585	19604
+viral ion	Pathogen	19607	19616
+amantadine	Medicine	19893	19903
+rimantadine	Medicine	19908	19919
+influenza	MedicalCondition	20189	20198
+influenza	MedicalCondition	20403	20412
+neuraminidase inhibitors	Medicine	20417	20441
+oseltamivir	Medicine	20443	20454
+zanamivir	Medicine	20456	20465
+influenza virus.[1	Pathogen	20622	20640
+sore throat	MedicalCondition	20735	20746
+headache	MedicalCondition	20771	20779
+coughing	MedicalCondition	20781	20789
+diarrhea	MedicalCondition	20999	21007
+vomiting	MedicalCondition	21012	21020
+Diarrhea	MedicalCondition	21061	21069
+vomiting	Medicine	21074	21082
+gastroenteritis	MedicalCondition	21106	21121
+stomach flu	Pathogen	21196	21207
+asthma	MedicalCondition	21389	21395

@@ -5,7 +5,7 @@ import json # importing json library
 from spacy.util import filter_spans
 
 def create_training_data(inputFile, outputFile):
-    with open('trainingData.json') as f:
+    with open('JsonData/trainingData.json') as f:
         data = json.load(f) # loading the data from the json file
 
     nlp = spacy.load('en_core_web_lg') # loading the model
@@ -35,7 +35,7 @@ def test_model(path, medicalText):
     doc = trained_model(medicalText) # passing the medical text to the model
 
 
-    with open('test_output.txt', 'w') as f:
+    with open('OtherFormatData/test_output.txt', 'w') as f:
         if doc.ents:
             for ent in doc.ents:
                 f.write(f'{ent.text}\t{ent.label_}\t{ent.start_char}\t{ent.end_char}\n')
@@ -44,9 +44,9 @@ def test_model(path, medicalText):
 
 
 
-create_training_data('trainingData.json', 'train.spacy')
+create_training_data('JsonData/trainingData.json', 'train.spacy')
 
-with open('sample_medical_text.txt', 'r') as file:
+with open('OtherFormatData/sample_medical_text.txt', 'r') as file:
     medicalText = file.read()
 
 test_model('output/model-best', medicalText)
