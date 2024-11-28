@@ -1,0 +1,30 @@
+bismuth compounds	Medicine	17	34
+Pepto-Bismol	Medicine	36	48
+diarrhea	MedicalCondition	115	123
+loperamide	Medicine	199	209
+aluminomagnesium silicate	Medicine	396	421
+diarrhea	MedicalCondition	474	482
+diarrhea	MedicalCondition	548	556
+diarrhea	MedicalCondition	576	584
+chemotherapy	Medicine	590	602
+kaopectate.\n\nRacecadotril	Medicine	692	719
+diarrhea	MedicalCondition	769	777
+
+loperamide	Medicine	838	848
+constipation	MedicalCondition	868	880
+853	MedicalCondition	1120	1123
+865	Pathogen	1125	1128
+853	Pathogen	1269	1272
+535	MedicalCondition	1328	1331
+diarrhoea	MedicalCondition	1450	1459
+watery bowel movements	MedicalCondition	1521	1543
+dehydration	MedicalCondition	1605	1616
+dehydration	MedicalCondition	1648	1659
+loss of skin color	MedicalCondition	1791	1809
+fast heart rate	MedicalCondition	1813	1828
+decrease in responsiveness	MedicalCondition	1836	1862
+Antiretroviral therapy	Medicine	2262	2284
+ART	Medicine	2286	2289
+HIV	Pathogen	2314	2317
+HIV	Pathogen	2411	2414
+ART	Medicine	2498	2501
