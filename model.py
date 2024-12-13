@@ -44,12 +44,12 @@ def test_model(path, medicalText):
 
 
 
-create_training_data('JsonData/trainingData.json', 'train.spacy')
+#create_training_data('JsonData/trainingData.json', 'train.spacy')
 
-#with open('OtherFormatData/sample_medical_text.txt', 'r') as file:
-#    medicalText = file.read()
+with open('OtherFormatData/sample_medical_text.txt', 'r') as file:
+    medicalText = file.read()
 
-# test_model('output/model-best', medicalText)
+test_model('output/model-best', medicalText)
 
 # python -m spacy download en_core_web_lg
 # python -m spacy init config config.cfg --lang en --pipeline ner --optimize accuracy

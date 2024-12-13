@@ -47,7 +47,7 @@ def calculate_metrics(key_entities, response_entities):
 def main():
     #read key and response entities
     key_entities = read_entities('key_output.txt') #key_output is generated from testData.json
-    response_entities = read_entities('test_output.txt')#test_output is geneerated from sample_medical_text_data
+    response_entities = read_entities('OtherFormatData/test_output.txt')#test_output is geneerated from sample_medical_text_data
 
     #calculate and print metrics
     calculate_metrics(key_entities, response_entities)
